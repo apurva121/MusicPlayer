@@ -16,12 +16,7 @@ import android.os.IBinder;
 import android.os.PowerManager;
 import android.util.Log;
 
-/*
- * This is demo code to accompany the Mobiletuts+ series:
- * Android SDK: Creating a Music Player
- * 
- * Sue Smith - February 2014
- */
+
 
 public class MusicService extends Service implements 
 MediaPlayer.OnPreparedListener, MediaPlayer.OnErrorListener,
